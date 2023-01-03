@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Sánchez.color.palette.discord-1-hex { color: #7289DA; }
+.Sánchez.color.palette.discord-2-hex { color: #99AAB5; }
+.Sánchez.color.palette.discord-3-hex { color: #2C2F33; }
+.Sánchez.color.palette.discord-4-hex { color: #23272A; }
+.Sánchez.color.palette.discord-5-hex { color: #FFFFFF; }
+
+/* Color Theme Swatches in RGBA */
+.Sánchez.color.palette.discord-1-rgba { color: rgba(114, 137, 218, 1); }
+.Sánchez.color.palette.discord-2-rgba { color: rgba(153, 170, 181, 1); }
+.Sánchez.color.palette.discord-3-rgba { color: rgba(44, 47, 51, 1); }
+.Sánchez.color.palette.discord-4-rgba { color: rgba(35, 39, 42, 1); }
+.Sánchez.color.palette.discord-5-rgba { color: rgba(255, 255, 255, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Sánchez.color.palette.discord-1-hsla { color: hsla(226, 58, 65, 1); }
+.Sánchez.color.palette.discord-2-hsla { color: hsla(203, 15, 65, 1); }
+.Sánchez.color.palette.discord-3-hsla { color: hsla(214, 7, 18, 1); }
+.Sánchez.color.palette.discord-4-hsla { color: hsla(205, 9, 15, 1); }
+.Sánchez.color.palette.discord-5-hsla { color: hsla(0, 0, 100, 1); }
